@@ -1,0 +1,42 @@
+.container1{
+    background-color:#fff6f6;
+}
+
+.container{
+    background-color:#fff6f6;
+    padding-left: 0%;
+    
+}
+
+#resume{
+    background-color:#AEDEFC;
+}
+
+#mypic{
+    float: right;
+    height: 255px;
+    width: 255px;
+    border-radius: 50%;
+    
+}
+
+h2{
+    font-family: 'Quicksand', sans-serif;
+}
+
+h1{
+    font-family: 'Dancing Script', cursive;
+    
+}
+
+p{
+    font-family: 'Quicksand', sans-serif;
+}
+
+#hello{
+    padding-left: 150px;
+} 
+
+#foot{
+    background-color: #f875aa;
+}
